@@ -1,11 +1,9 @@
-import { Link } from "react-router-dom";
-import Otro from "../../Otro";
-import "./main.css";
-import presentation from "../../visual/main/presentation.mp4";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useLoginContext } from "../../context/LoginContext";
+import presentation from "../../visual/main/presentation.mp4";
+import "./home.css";
 
-export default function Main() {
+export default function Home() {
   const navigate = useNavigate();
   const { userLogged } = useLoginContext();
 
@@ -48,7 +46,6 @@ export default function Main() {
         )}
       </div>
       <h1 className="title-main animate__animated animate__delay-1s animate__backInRight">
-        {" "}
         The English game
       </h1>
     </div>

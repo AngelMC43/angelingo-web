@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import FinalPanel from "../../components/FinalPanel/FinalPanel";
-import Score from "../../components/Rankings/Rankings";
+import Score from "../../components/Ranking/Ranking";
 
 export default function AdvancedPanel() {
   return (

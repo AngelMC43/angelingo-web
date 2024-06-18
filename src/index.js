@@ -7,7 +7,7 @@ import "materialize-css/dist/js/materialize.min.js";
 
 import App from "./App";
 import RequireAuth from "./components/Login/RequireAuth";
-import Main from "./views/Main/Main";
+import Main from "./views/Home/Home.js";
 import SignUpView from "./views/SignUpView.js";
 import LoginView from "./views/LoginView";
 import IndexMenu from "./views/indexMenu/IndexMenu";
@@ -17,13 +17,11 @@ import BasicPanel from "./views/GamesView/BasicPanel";
 import IntermediatePanel from "./views/GamesView/IntermediatePanel";
 import AdvancedPanel from "./views/GamesView/AdvancedPanel";
 import Logina from "./components/Login/Logina";
-import Navbar from "./components/Navbar/Navbar";
 import BasicView from "./views/GamesView/BasicView";
 import IntermediateView from "./views/GamesView/IntermediateView";
 import AdvancedView from "./views/GamesView/AdvancedView";
 import About from "./views/About/About";
 import Guide from "./views/Guide/Guide";
-import ShowScore from "./components/Rankings/Rankings.js";
 import UploadUser from "./components/UploadUser/UploadUser";
 import Contacto from "./views/Contacto/Contacto";
 import MapaIdeas from "./views/MapaIdeas/MapaIdeas";
@@ -70,6 +68,7 @@ import ScoreAdvGrammar from "./components/Punctuation/ScoreAdvGrammar";
 import ScoreAdvMatch from "./components/Punctuation/ScoreAdvMatch";
 
 import { createRoot } from "react-dom/client";
+import Ranking from "./components/Ranking/Ranking.js";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
@@ -91,7 +90,7 @@ root.render(
           <Route path="index-menu" element={<IndexMenu />} />
           <Route path="profile" element={<ProfileView />} />
           <Route path="games" element={<Games />} />
-          <Route path="rankings" element={<ShowScore />} />
+          <Route path="ranking" element={<Ranking />} />
           <Route path="upload-user" element={<UploadUser />} />
           <Route path="my-score" element={<MyScore />} />
 
@@ -164,22 +163,22 @@ root.render(
 
           {/* ------------------------SCORE INTERMEDIATE-------------------------------------------- */}
           <Route
-            path="rankings/intermediate-vocabulary"
+            path="ranking/intermediate-vocabulary"
             element={<ScoreIntVocabulary />}
           />
 
           <Route
-            path="rankings/intermediate-verbs"
+            path="ranking/intermediate-verbs"
             element={<ScoreIntVerbs />}
           />
 
           <Route
-            path="rankings/intermediate-grammar"
+            path="ranking/intermediate-grammar"
             element={<ScoreIntGrammar />}
           />
 
           <Route
-            path="rankings/intermediate-match"
+            path="ranking/intermediate-match"
             element={<ScoreIntMatch />}
           />
           <Route path="games/basic/next-advanced" element={<NextAdvanced />} />
@@ -216,18 +215,18 @@ root.render(
 
           {/* ------------------------SCORE ADVANCED-------------------------------------------- */}
           <Route
-            path="rankings/advanced-vocabulary"
+            path="ranking/advanced-vocabulary"
             element={<ScoreAdvVocabulary />}
           />
 
-          <Route path="rankings/advanced-verbs" element={<ScoreAdvVerbs />} />
+          <Route path="ranking/advanced-verbs" element={<ScoreAdvVerbs />} />
 
           <Route
-            path="rankings/advanced-grammar"
+            path="ranking/advanced-grammar"
             element={<ScoreAdvGrammar />}
           />
 
-          <Route path="rankings/advanced-match" element={<ScoreAdvMatch />} />
+          <Route path="ranking/advanced-match" element={<ScoreAdvMatch />} />
         </Route>
       </Route>
     </Routes>

@@ -19,4 +19,23 @@ export const appRoutes = {
   ABOUT: "/about",
 };
 
-export const appLinks = [];
+export const appNames = {
+  HOME: "Home",
+  GAMES: "Juegos",
+  BASIC: "Basic",
+  INTERMEDIATE: "Intermediate",
+  ADVANCED: "Advanced",
+  VOCABULARY: "Vocabulary",
+  GRAMMAR: "Grammar",
+  VERBS: "Verbs",
+  FINAL_TEST: "Final-test",
+  RANKING: "Ranking",
+  LOGIN: "Login",
+  SIGNUP: "Signup",
+  PROFILE: "Perfil",
+  GUIDE: "Guía",
+  INDEX_MENU: "Index menu",
+  CONTACT: "Contacto",
+  SITE_MAP: "Mapa del sitio",
+  ABOUT: "About",
+};

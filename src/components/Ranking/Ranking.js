@@ -1,9 +1,9 @@
 import { useLoginContext } from "../../context/LoginContext";
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import "./rankings.css";
+import "./ranking.css";
 
-export default function Rankings() {
+export default function Ranking() {
   const { userLogged } = useLoginContext();
   const [mark, setMark] = useState([]);
 

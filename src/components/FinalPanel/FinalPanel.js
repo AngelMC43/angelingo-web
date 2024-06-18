@@ -1,5 +1,5 @@
-import Score from "../Rankings/Rankings";
 import IndexMenu from "../../views/indexMenu/IndexMenu";
+import Ranking from "../Ranking/Ranking";
 
 export default function FinalPanel() {
   return (
@@ -14,7 +14,7 @@ export default function FinalPanel() {
         traera: puntuacion, boton volver a empezar, juego siguiente, boton
         clasificacion, menu inicial
       </p>
-      <Score />
+      <Ranking />
       <IndexMenu />
     </div>
   );
