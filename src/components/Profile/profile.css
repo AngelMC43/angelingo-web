@@ -1,0 +1,68 @@
+
+.mainContainer-profile {
+    display: flex;
+    margin-top: 10vh;
+    margin-left: 43vh;
+    height: 70vh;
+    background-image: url("../../visual/main/fm.jpg");
+    width: 116vh;
+    padding-top: 11vh;
+    padding-bottom: 5vh;
+    border-radius: 3vh;
+    background-position: left;
+    position: relative;
+    font-family: 'Comic Neue', cursive;
+}
+.bold {
+    text-decoration:dashed ;
+}
+.title {
+    font-size: xx-large;
+    margin-top: -8vh;
+    color: white;
+    margin-left: 3vh;
+    font-family: 'Atma', cursive;
+    color:black;
+}
+
+.avaPic {
+    margin-left: 66vh;
+    width: 13vh;
+    margin-top: -7vh;
+    position: absolute;
+}
+
+.card-profile {
+    margin-left: 58vh;
+}
+
+.inside-container {
+    text-align: start;
+    margin-left: 1vh;
+    background-color: white;
+    position: absolute;
+    border-right: groove;
+    border-radius: 3vh;
+    height: 50vh;
+
+    
+}
+
+.insideText-profile {
+    margin-left: 5vh;
+    
+}
+
+.button-profile {
+    width: 116vh;
+    margin-left: 7.5vh;
+    height: 10vh;
+    border-bottom-left-radius: 2vh;
+    border-bottom-right-radius: 2vh;
+    margin-top: -3vh;
+    background-color: rgb(175, 255, 14);
+    padding-top: 4vh;
+    font-family: 'Atma', cursive;
+    font-size: 3vh;
+    color: black;
+}

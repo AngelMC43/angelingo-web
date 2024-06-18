@@ -1,0 +1,433 @@
+.main-intermediateVocabulary {
+    border: 3vh solid rgb(57, 2, 52);
+    background-image: url("../../../visual/intermediate/fondo.png");
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;  
+     font-family: 'Atma', cursive;
+}
+
+.title-intermediateVocabulary {
+    font-size: 7vh;
+    border: 0.5vh solid black;
+    border-radius: 5vh;
+    background-color: white;
+    margin-top: 4vh;
+}
+
+.answer-intermediateVocabulary {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-option-intermediateVocabulary {
+    position: sticky;
+    width: 40vh;
+    height: 26vh;
+    background-color: white;
+    border-radius: 3vh;
+    padding: 1vh;
+    border: 0.2vh solid black;
+}
+
+.button-push-intermediateVocabulary {
+   border: 1vh solid rgb(175, 255, 14);
+    border-radius: 2.5vh;
+    background-color: blueviolet;
+    width: 28vh;
+    height: 14vh;
+    font-family: 'BIZ UDGothic', sans-serif;
+    font-family: 'Comic Neue', cursive;
+    font-size: 5vh
+}
+
+.button-first-intermediateVocabulary {
+    background-color: white;    
+    border: none;
+    font-size: 8vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10vh;
+    margin-left: -57vh;
+    width: 48vh;
+    position: absolute;
+    background-image: url("../../../visual/intermediate/fondoBotonD.jpg");
+    height: 12vh;
+}
+
+.button-second-intermediateVocabulary {
+    background-color: white;    
+    border: none;
+    font-size: 8vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 10vh;
+    margin-left: 17vh;
+    position: absolute;
+    width: 40vh;
+    background-image: url("../../../visual/intermediate/fondoBoton.jpg");
+    height: 12vh;
+    }
+
+.button-third-intermediateVocabulary {
+    background-color: white;    
+    border: none;
+    font-size: 8vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 30vh;
+    margin-left: -57vh;
+    position: absolute;
+    width: 48vh;
+    background-image: url("../../../visual/intermediate/fondoBotonD.jpg");
+    height: 12vh;
+    }
+
+.button-forth-intermediateVocabulary {
+    background-color: white;    
+    border: none;
+    font-size: 8vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 30vh;
+    margin-left: 17vh;
+    position: absolute;
+    width: 40vh;
+    background-image: url("../../../visual/intermediate/fondoBoton.jpg");
+    height: 12vh;
+    }
+
+.inside-container-intermediateVocabulary {
+    position: absolute;
+    width: 134vh;
+    border: 0.5vh solid black;
+    border-radius: 3.3vh;
+}
+
+.button-intermediateVocabula {
+    width: 37vh;
+}
+
+/*-----------------------------------------------GRAMMAR---------------------------------------------*/
+.main-intermediateGrammar {
+    background-image: url("../../../visual/intermediate/fondoGrammar.png");
+    border: 3vh solid rgb(57, 2, 52);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;  
+     font-family: 'Atma', cursive;
+
+}
+
+.title-intermediateGrammar {
+    font-size: 7vh;
+    border: 0.5vh solid black;
+    border-radius: 5vh;
+    background-color: white;
+    margin-top: 0vh;
+}
+
+.button-intermediateGrammar {
+    background-image: url("../../../visual/main/fondobotonnn.jpg");
+
+    width: 30vh;
+    height: 6vh;
+    margin-top: -3vh;
+    border-radius: 5vh;
+    font-size: 5vh;
+    font-family: 'Comic Neue', cursive;
+    background-color: white;
+
+}
+/*-------------------------------------------VERBS-----------------------------------------------*/
+.main-intermediateVerbs {
+    border: 3vh solid rgb(114, 7, 106);
+    background-image: url("../../../visual/intermediate/fondoVerbs.png");
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;  
+     font-family: 'Atma', cursive;
+}
+
+.title-intermediateVerbs {
+    font-size: 7vh;
+    margin-top: -46vh;
+    border: 0.5vh solid black;
+    border-radius: 5vh;
+    background-color: white;
+    margin: 3vh;
+    height: 18vh;
+    padding: 1vh;
+
+}
+
+.answerContainer-intermediateVerbs {
+    height: 45vh;
+    text-align: center;
+}
+
+.button-first-intermediateVerbs {
+    background-image: url("../../../visual/main/fondoMor.png");
+    border: none;
+    font-size: 6vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 19vh;
+    margin-left: -63vh;
+    width: 29vh;
+    border-radius: 13vh;
+    position: absolute;
+    height: 19vh;
+}
+
+.button-second-intermediateVerbs {
+    background-image: url("../../../visual/main/fondoVer.png");
+    border: none;
+    font-size: 6vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 20vh;
+    margin-left: -29vh;
+    position: absolute;
+    width: 28vh;
+    border-radius: 7vh;
+    height: 19vh;
+
+}
+
+.button-third-intermediateVerbs {
+    background-image: url("../../../visual/main/fondoMor.png");
+    border: none;
+    font-size: 6vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 19vh;
+    margin-left: 3vh;
+    position: absolute;
+    width: 29vh;
+    border-radius: 13vh;
+
+    height: 19vh;
+}
+
+.button-forth-intermediateVerbs {
+    background-image: url("../../../visual/main/fondoVer.png");
+    border: none;
+    font-size: 6vh;
+    font-family: 'Comic Neue', cursive;
+    margin-top: 20vh;
+    margin-left: 37vh;
+    position: absolute;
+    border-radius: 9vh;
+    width: 27vh;
+    height: 19vh;
+    }
+/*-------------------------------------------MATCH-----------------------------------------------*/
+
+.main-intermediateMatch {
+    background-image: url("../../../visual/intermediate/fondoMatch.png");
+    border: 3vh solid rgb(57, 2, 52);
+  
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;  
+     font-family: 'Atma', cursive;
+}
+
+.title-intermediateMatch {
+    margin-top: 3vh;
+    font-size: 5vh;
+}
+
+.font-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 41vh;
+    width: 25vh;
+    height: 14vh;
+    margin-left: 32vh;
+}
+
+.planeInt-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: -4vh;
+    margin-left: 6.6vh;
+    width: 10.95vh;
+    height: 5.95vh;
+}
+
+.bus-intermediateMatch {
+    cursor: pointer;
+    margin-top: 36vh;
+    margin-left: 51vh;
+    width: 20vh;
+    position: absolute;
+    height: 10vh;
+}
+
+.ligth-intermediateMatch {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 28vh;
+    margin-left: 80vh;
+    width: 16vh;
+    height: 21vh;
+    position: absolute;
+}
+
+.crash-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 17.8vh;
+    margin-left: 0.4vh;
+    width: 17.5vh;
+    height: 16.2vh;
+    
+}
+
+.flag-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 8.5vh;
+    margin-left: 99vh;
+    width: 12vh;
+    height: 8vh;
+}
+
+.clock-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: -1vh;
+    margin-left: 79vh;
+    width: 4.5vh;
+    height: 3.8vh;
+}
+
+.bench-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-left: -2vh;
+    margin-top: 40vh;
+    width: 20vh;
+    height: 18vh;
+}
+
+.basket-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 29vh;
+    width: 16vh;
+    height: 16vh;
+    margin-left: 33vh;
+
+}
+
+.plaque-intermediateMatch {
+    cursor: pointer;
+    position: absolute;
+    margin-top: 35vh;
+    width: 17vh;
+    height: 20vh;
+    margin-left: 98vh;
+}
+/*-------------------------------------------FINAL PANEL-----------------------------------------------*/
+
+.finalPanel-intermediate {
+    position: absolute;
+    color: white;
+    font-size: 9.9vh;
+    border: 2.5vh solid rgb(57, 2, 52);
+    background-color: black;
+    border-radius: 7vh;
+    margin-left: -3vh;
+    margin-top: -20vh;
+    justify-content: center;
+    align-items: center;
+    width: 140vh;
+    height: 76vh;
+    text-align: center;
+    font-family: 'Atma', cursive;
+    line-height: 12vh;
+}
+
+.touch-intermediateVerbs {
+    margin-top: -27vh;
+   
+}
+
+.touch-intermediateMatch {
+    
+    margin-left: 27vh;
+    margin-top: -75vh;
+   
+}
+
+
+.buttonCompleted-intermediate {
+    font-family: 'Atma', cursive;
+    font-size: 8vh;
+    width: auto;
+    color: rgb(137, 24, 124);
+}
+
+.confeti-intermediate {
+    position: absolute;
+    margin-top: -60vh;
+    margin-left: -30vh;
+    font-size: 1vh;
+}
+
+.pass-intermediate {
+    position: absolute;
+    width: 40vh;
+    margin-top: -30vh;
+    margin-left: 40vh;
+    font-size: 1vh;
+
+}
+
+.failed-intermediate {
+   
+    position: absolute;
+    width: 28vh;
+    margin-left: -70vh;
+    margin-top: 18vh;
+    font-size: 1vh;
+
+
+}
+
+.fail-intermediate {
+    position: absolute;
+    width: 40vh;
+    margin-top: -26vh;
+    margin-left: 29vh;
+    font-size: 1vh;
+
+}
+
+.mission-intermediate {
+    position: absolute;
+    width: 40vh;
+    margin-top: 29vh;
+    margin-left: -66vh;
+    font-size: 1vh;
+
+}
+
+.font-fix {
+    font-size: 2vh;
+}

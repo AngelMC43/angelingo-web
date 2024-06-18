@@ -1,0 +1,82 @@
+.container-mapa {
+    border: 1.5vh solid black;
+    border-radius: 3vh;
+    width: 181vh;
+    margin-left: 7vh;
+    height: 77vh;
+    margin-top: 5vh;
+    border-radius: 3vh;
+    position: relative;
+    
+}
+
+.container-mapSecond {
+    border: 1.5vh solid black;
+    border-radius: 3vh;
+    width: 137vh;
+    margin-left: 26vh;
+    height: 77vh;
+    margin-top: 5vh;
+    border-radius: 3vh;
+    position: relative;
+}
+
+
+.container-mapThird {
+    border: 1.5vh solid black;
+    border-radius: 3vh;
+    width: 137vh;
+    margin-left: 26vh;
+    height: 77vh;
+    margin-top: 5vh;
+    border-radius: 3vh;
+    position: relative;
+}
+
+.container-mapFourth {
+    border: 1.5vh solid black;
+    border-radius: 3vh;
+    width: 137vh;
+    margin-left: 26vh;
+    height: 77vh;
+    margin-top: 5vh;
+    border-radius: 3vh;
+    position: relative;
+}
+
+.title-mapa {
+    font-family: 'Atma', cursive;
+    text-align: center;
+    border: 1vh solid white;
+    border-radius: 7vh;
+    width: 70vh;
+    margin-left: 62vh;
+    margin-top: 11vh;
+    color: white;
+    background-color: black;
+    padding: 4vh;
+}
+
+.firstPic {
+    width: 178.3vh;
+    border-radius: 2vh;
+    height: 74vh;
+}
+
+.secondPic {
+    width: 134.3vh;
+    border-radius: 2vh;
+    height: 74vh;
+}
+
+.thirdPic {
+    width: 134.3vh;
+    border-radius: 2vh;
+    height: 74vh;
+}
+
+.fourthPic {
+    width: 134.3vh;
+    border-radius: 2vh;
+    height: 74vh;
+}

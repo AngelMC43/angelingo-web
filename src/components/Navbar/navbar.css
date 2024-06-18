@@ -1,0 +1,51 @@
+.userNav-navbar {
+  display: contents;
+  justify-content: space-around;
+}
+
+.titleLogo-navbar {
+  font-family: "Atma", cursive;
+  text-align: center;
+  border-radius: 7vh;
+  width: 14vh;
+  margin-left: -1vh;
+  color: white;
+}
+
+.name-navbar {
+  margin-left: 157vh;
+  font-size: 2.2vh;
+  color: rgb(175, 255, 14);
+  position: absolute;
+  margin-top: 5vh;
+}
+
+.surname-navbar {
+  margin-left: 162vh;
+  font-size: 2.2vh;
+  color: rgb(175, 255, 14);
+  position: absolute;
+  margin-top: 5vh;
+}
+
+.buttonLog-navbar {
+  width: 5vh;
+  position: absolute;
+  margin-left: -5vh;
+  margin-top: -1vh;
+}
+
+.button-navbar {
+  cursor: pointer;
+}
+
+.posAbsolute {
+  position: absolute;
+  margin-left: 24vh;
+}
+
+.logoCentral {
+  width: 6%;
+  margin-top: 1vh;
+  position: sticky;
+}

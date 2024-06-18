@@ -1,0 +1,401 @@
+.main-advancedVocabulary {
+    border: 3vh solid rgb(79, 57, 95);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 139vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/advanced/fondoVocabulary.png");
+     font-family: 'Atma', cursive;
+    
+}
+
+.title-advancedVocabulary {
+    font-size: 7vh;
+    background-color: white;
+    border-radius: 8vh;
+    border: 0.5vh solid black;
+    padding: 1.5vh;
+    position: absolute;
+    margin: 2vh;
+    width: 130vh;
+}
+
+.box-answer-advancedVocabulary {
+    display: flex;
+    margin-top: 31vh;
+    font-family: 'Comic Neue', cursive;
+
+
+}
+
+.input-advancedVocabulary {
+    border-radius: 5vh;
+    border-color: 1vh solid black;
+    width: 37vh;
+    height: 8vh;
+    margin-top: 9.5vh;
+    margin-left: -1vh;
+    color: black;
+    background-color: white;
+}
+
+.answer-advancedVocabulary {
+    border: 0.2vh solid #1e1d1d;
+    border-radius: 4vh;
+    margin: 0.4vh;
+    background-color: white;
+    padding: 0.8vh;
+    width: 14vh;
+    font-size: 3vh;
+}
+
+
+.arrowPink {
+    width: 7vh;
+    cursor: pointer;
+}
+
+
+
+
+/*-----------------------------------------------GRAMMAR---------------------------------------------*/
+
+.main-advancedGrammar {
+    border: 3vh solid rgb(0, 0, 0);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/advanced/fondoa.png");
+    font-family: 'Atma', cursive;
+
+}
+
+.title-advancedGrammar {
+    background-color: white;
+    border-radius: 5vh;
+    font-size: 7vh;
+    border: 0.5vh solid black;
+    margin-top: 4vh;
+    position: absolute;
+    width: 132vh;
+    padding-top: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+
+}
+
+.img-option-advancedGrammar {
+    position: sticky;
+    width: 30vh;
+    height: 32vh;
+}
+
+.insideContainer-advancedGrammar {
+border:1
+}
+
+.button-push-advancedGrammar {
+    background-color: transparent;
+    border: transparent;
+    margin-top: 20vh;
+    position: absolute;
+
+     width: 30vh;
+     height: 14vh;
+     font-family: 'Comic Neue', cursive;     
+     font-size: 5vh;
+ }
+
+ .button-left-advancedGrammar {
+    background-image: url("../../../visual/advanced/fondoMorSo.jpg");
+    position: absolute;
+    margin-top: 42vh;
+    margin-left: -43vh;
+    width: 30vh;
+    border-radius: 8vh;
+    height: 14vh;
+    font-family: 'Comic Neue', cursive;
+    font-size: 5vh;
+}
+
+.button-rigth-advancedGrammar {
+    background-image: url("../../../visual/advanced/fondoMorSo.jpg");
+    position: absolute;
+    margin-top: 42vh;
+     margin-left:13vh ;
+     width: 30vh;
+     border-radius: 8vh;
+
+     height: 14vh;
+     font-family: 'Comic Neue', cursive;     
+     font-size: 5vh;
+}
+
+
+/*---------------------------------VERBS-------------------------------------------*/
+.main-advancedVerbs {
+    border: 3vh solid rgb(0, 0, 0);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/advanced/fondoVerbs.png");
+    font-family: 'Atma', cursive;
+
+}
+
+.title-advancedVerbs {
+    background-color: white;
+    border-radius: 5vh;
+    font-size: 7vh;
+    border: 0.5vh solid black;
+    margin-top: 4vh;
+    position: absolute;
+    width: 132vh;
+    padding-top: 1vh;
+    margin-left: 1vh;
+    margin-right: 1vh;
+
+}
+
+.img-option-advancedVerbs {
+    position: sticky;
+    width: 30vh;
+    height: 32vh;
+}
+
+
+
+ .button-left-advancedVerbs {
+    background-image: url("../../../visual/advanced/fondoVerOs.jpg");
+    border: transparent;
+    position: absolute;
+    margin-top: 43.5vh;
+    margin-left: -43vh;
+     width: 30vh;
+     height: 14vh;
+     font-family: 'Comic Neue', cursive;     
+     font-size: 5vh;
+     color: white;
+}
+
+.button-rigth-advancedVerbs {
+    background-image: url("../../../visual/advanced/fondoVerOs.jpg");
+    position: absolute;
+    border: transparent;
+    margin-top: 43.5vh;
+     margin-left:13vh ;
+     width: 30vh;
+     height: 14vh;
+     font-family: 'Comic Neue', cursive;     
+     font-size: 5vh;
+     color: white;
+}
+
+
+/*-------------------------------------------MATCH-----------------------------------------------*/
+.main-matchAdvanced {
+    border: 3vh solid rgb(175, 255, 14);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 139vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/advanced/fondoMain.png");
+     font-family: 'Atma', cursive;
+
+}
+
+.inside-container-matchAdvanced {
+    position: absolute;
+    width: 133vh;
+    height: 69vh;
+    border: 0.5vh solid black;
+    border-radius: 3.3vh;
+}
+
+.title-matchAdvanced {
+    border-radius: 5vh;
+    font-size: 6vh;
+    margin-top: 4vh;
+    position: absolute;
+    width: 132vh;
+    margin-left: 1vh;
+    margin-top: 1vh;
+    margin-right: 1vh;
+}
+
+.helicopter-match {
+    position: absolute;
+    margin-top: 14vh;
+    margin-left: 6.5vh;
+    margin-right: 6.6vh;
+    width: 22vh;
+    height: 10vh;
+}
+
+
+.cloud-match {
+    position: absolute;
+    margin-top: 13vh;
+    width: 20vh;
+    height: 14vh;
+    margin-left: 86vh;
+}
+
+.parachute-match {
+    position: absolute;
+    margin-top: 25vh;
+    margin-left: 70.6vh;
+    width: 4.95vh;
+    height: 4.95vh;
+}
+
+.humming-match {
+    position: absolute;
+    margin-top: 20vh;
+    margin-left: 119vh;
+    width: 8vh;
+    height: 7vh;
+}
+
+.platform-match {
+    position: absolute;
+    margin-top: 28vh;
+    margin-left: 0vh;
+    width: 11vh;
+    height: 9vh;
+}
+
+.boat-match {
+    position: absolute;
+    margin-top: 32vh;
+    margin-left: 24vh;
+    width: 9vh;
+    height: 10vh;
+}
+
+.barn-match {
+    position: absolute;
+    margin-top: 34vh;
+    margin-left: 76vh;
+    width: 8vh;
+    height: 9vh;
+}
+
+.bull-match {
+    position: absolute;
+    margin-top: 49vh;
+    margin-left: 103vh;
+    width: 11.5vh;
+    height: 7.8vh;
+}
+
+.launch-match {
+    position: absolute;
+    margin-left: 2vh;
+    margin-top: 49vh;
+    width: 14vh;
+    height: 6vh;
+}
+
+.roc-match {
+    position: absolute;
+    margin-top: 54vh;
+    width: 12vh;
+    height: 6vh;
+    margin-left: 19vh;
+
+} 
+
+
+/*-------------------------------------------FINAL PANEL-----------------------------------------------*/
+
+.finalPanel-advanced {
+    position: absolute;
+    color: white;
+    font-size: 9.9vh;
+    border: 2.5vh solid rgb(57, 2, 52);
+    background-color: black;
+    border-radius: 7vh;
+    margin-left: 27vh;
+    margin-top: -76vh;
+    justify-content: center;
+    align-items: center;
+    width: 140vh;
+    height: 76vh;
+    text-align: center;
+    font-family: 'Atma', cursive;
+    line-height: 12vh;
+}
+
+.finalPanel-matchAdvanced {
+    position: absolute;
+    color: white;
+    font-size: 9.9vh;
+    border: 2.5vh solid rgb(57, 2, 52);
+    background-color: black;
+    border-radius: 7vh;
+    margin-left: -3vh;
+    margin-top: -4vh;
+    justify-content: center;
+    align-items: center;
+    width: 140vh;
+    height: 76vh;
+    text-align: center;
+    font-family: 'Atma', cursive;
+    line-height: 12vh;
+}
+
+
+.buttonCompleted-advanced {
+    font-family: 'Atma', cursive;
+    font-size: 8vh;
+    width: auto;
+    color: rgb(137, 24, 124);
+}
+
+.buttonCompleted-basicRed {
+    font-family: 'Atma', cursive;
+    font-size: 8vh;
+    width: auto;
+    color: rgb(241, 6, 73);
+}
+
+.confeti-advanced {
+    position: absolute;
+    margin-top: -60vh;
+    margin-left: -30vh;
+}
+
+.pass-advanced {
+    position: absolute;
+    width: 40vh;
+    margin-top: -30vh;
+    margin-left: 40vh;
+}
+
+.failed-advanced {
+   
+    position: absolute;
+    width: 28vh;
+    margin-left: -70vh;
+    margin-top: 18vh;
+}
+

@@ -1,0 +1,404 @@
+.main-vocabulary {
+    border: 3vh solid rgb(175, 255, 14);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/basic/beach.png");
+     font-family: 'Atma', cursive;
+}
+
+.answer-vocabulary {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-option-vocabulary {
+    position: sticky;
+    width: 40vh;
+    height: 26vh;
+    background-color: white;
+    border-radius: 3vh;
+    padding: 1vh;
+    border: 0.2vh solid black;
+}
+
+.button-push-vocabulary {
+   border: 1vh solid rgb(175, 255, 14);
+    border-radius: 2.5vh;
+    background-color: blueviolet;
+    background-image: url("../../../visual/basic/fondoMorado.jpg");
+    width: 28vh;
+    height: 14vh;
+    font-family: 'BIZ UDGothic', sans-serif;
+    font-family: 'Comic Neue', cursive;
+    font-size: 5vh
+}
+
+.button-container-vocabulary {
+    border-radius: 2.5vh;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 4vh;
+}
+
+.inside-container-vocabulary {
+    position: absolute;
+    width: 134vh;
+    border: 0.5vh solid black;
+    border-radius: 3.3vh;
+    height: 69.2vh;
+}
+
+.titleBG-choose {
+    background-color: white;
+    border-radius: 5vh;
+    border: solid black 0.5vh;
+    width: 45vh;
+    margin-left: 44vh;
+    padding-top: 1vh;
+}
+
+.button-vocabulary {
+    width: 37vh;
+}
+
+
+/*-----------------------------------------------GRAMMAR---------------------------------------------*/
+
+.main-grammar {
+    border: 3vh solid rgb(175, 255, 14);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/basic/mountain.jpg");
+    font-family: 'Atma', cursive;
+
+}
+
+.titleBG-grammar {
+    background-color: white;
+    border-radius: 5vh;
+    border: solid black 0.5vh;
+}
+
+.img-option-grammar {
+    position: sticky;
+    width: 30vh;
+    height: 32vh;
+    
+}
+
+.insideContainer-grammar {
+border:1
+}
+
+.button-push-grammar {
+    border: 1vh solid rgb(175, 255, 14);
+     border-radius: 2.5vh;
+     background-color: rgb(44, 204, 215);
+     width: 28vh;
+     height: 14vh;
+     font-family: 'Comic Neue', cursive;     
+     font-size: 5vh;
+     background-image: url("../../../visual/basic/fondoMorado.jpg");
+ }
+
+ .button-container-grammar {
+     display: flex;
+     justify-content: space-around;
+    border-radius: 2.5vh;
+}
+/*-------------------------------------------QUE VEO-----------------------------------------------*/
+
+.main-match {
+    border: 3vh solid rgb(175, 255, 14);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 139vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/basic/inf.png");
+     font-family: 'Atma', cursive;
+
+}
+
+.inside-container-match {
+    width: 133vh;
+    height: 69vh;
+    border: 0.5vh solid black;
+    border-radius: 3.3vh;
+}
+
+.title-match {
+    margin-top: 3vh;
+}
+
+.bird-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: -14vh;
+    margin-left: 6.5vh;
+    margin-right: 6.6vh;
+    width: 9vh;
+    height: 9vh;
+}
+
+
+.plane-match {
+    cursor: pointer;
+    position: absolute;
+    margin-top: -15vh;
+    width: 10vh;
+    height: 9vh;
+    margin-left: 109vh;
+}
+
+.apple-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 9vh;
+    margin-left: 6.6vh;
+    width: 4.95vh;
+    height: 4.95vh;
+}
+
+.house-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 2.5vh;
+    margin-left: 30vh;
+    width: 14vh;
+    height: 14vh;
+}
+
+.cat-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 1.5vh;
+    margin-left: 22vh;
+    width: 10vh;
+    height: 10vh;
+}
+
+.car-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 4.5vh;
+    margin-left: 26vh;
+    width: 16.5vh;
+    height: 13.2vh;
+    
+}
+
+.parrot-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: 5.5vh;
+    margin-right: 0vh;
+    width: 11vh;
+    height: 11vh;
+}
+
+.chicken-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: -6vh;
+    margin-left: 30vh;
+    width: 16.5vh;
+    height: 19.8vh;
+}
+
+.dog-match {
+    cursor: pointer;
+    position: sticky;
+    margin-left: 47vh;
+    width: 11.57vh;
+    height: 11.57vh;
+}
+
+.ball-match {
+    cursor: pointer;
+    position: sticky;
+    margin-top: -6.6vh;
+    width: 4vh;
+    height: 4vh;
+    margin-right: 9vh;
+}
+
+/*---------------------------------CHOOSE COORECT-------------------------------------------*/
+.main-choose {
+    border: 3vh solid rgb(175, 255, 14);
+    border-radius: 6.6vh;
+    margin: auto;
+    margin-top: 5.5vh;
+     justify-content: center;
+     align-items: center;
+     width: 140vh;
+     height: 75vh;
+     text-align: center;
+     background-image: url("../../../visual/basic/fondo-choose.jpg");
+     font-family: 'Atma', cursive;
+}
+
+.answer-choose {
+    display: inline;
+    justify-content: space-around;
+}
+
+.img-choose {
+    position: absolute;
+    width: 40vh;
+    height: 40vh;
+    margin-left: 10vh;
+    cursor: pointer;
+    margin-top: 5vh;
+}
+
+.img-correctChoose {
+    position: absolute;
+    width: 37vh;
+    height: 37vh;
+    margin-left: 10vh;
+    cursor: pointer;
+    margin-top: 5vh;
+
+}
+
+.img-incorrectChoose {
+    position: absolute;
+    width: 37vh;
+    height: 37vh;
+    margin-left: -46vh;
+    cursor: pointer;
+    margin-top: 5vh;
+
+}
+
+.inside-container-choose {
+    position: absolute;
+    width: 134vh;
+    height: 69vh;
+    border: 0.5vh solid black;
+    border-radius: 3.3vh;
+}
+
+.button-choose {
+    width: 37vh;
+}
+
+/*-------------------------------FINAL PANEL-------------------------------------------------------------*/
+
+
+.finalPanel-basic {
+    color: white;
+    font-size: 9.9vh;
+    position: sticky;
+    border: 2.5vh solid rgb(175, 255, 14);
+    background-color: black;
+    border-radius: 7vh;
+    margin: auto;
+    margin-top: -75vh;
+     justify-content: center;
+     align-items: center;
+     width: 139vh;
+     height: 75vh;
+     text-align: center;
+     font-family: 'Atma', cursive;
+     line-height: 12vh
+}
+
+.finalPanel-matchBasic {
+    color: white;
+    font-size: 9.9vh;
+    position: sticky;
+    border: 2.5vh solid rgb(175, 255, 14);
+    background-color: black;
+    border-radius: 7vh;
+    margin-top: -72vh;
+    margin-left: -3vh;
+    justify-content: center;
+    align-items: center;
+    width: 139vh;
+    height: 75vh;
+    text-align: center;
+    font-family: 'Atma', cursive;
+    line-height: 12vh;
+}
+
+.buttonCompleted-basic {
+    font-family: 'Atma', cursive;
+    font-size: 8vh;
+    width: auto;
+    color: rgb(137, 24, 124);
+}
+
+.buttonCompleted-basicRed {
+    font-family: 'Atma', cursive;
+    font-size: 8vh;
+    width: auto;
+    color: rgb(241, 6, 73);
+}
+
+.confeti-basic {
+    position: absolute;
+    margin-top: -60vh;
+    margin-left: -50vh;
+    width: 100vh;
+    height: 65vh;
+}
+
+.pass-basic {
+    position: absolute;
+    width: 40vh;
+    margin-top: -30vh;
+    margin-left: 40vh;
+}
+
+.loser-basic {
+    position: absolute;
+    width: 60vh;
+    margin-left: -80vh;
+}
+
+
+.fail-basic {
+    position: absolute;
+    width: 40vh;
+    margin-top: -35vh;
+    margin-left: 35vh;
+}
+
+.wellDone-basic {
+    position: absolute;
+    width: 25vh;
+    margin-top: 18vh;
+    margin-left: -65vh;
+}
+
+.goodJob-basic {
+    position: absolute;
+    width: 35vh;
+    margin-top: 18vh;
+    margin-left: -65vh;
+}
+
+.great-basic {
+    position: absolute;
+    width: 35vh;
+    margin-top: 18vh;
+    margin-left: -70vh;
+}
+
